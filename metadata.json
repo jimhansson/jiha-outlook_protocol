@@ -1,8 +1,8 @@
 {
 		"name": "jiha-outlook_protocol",
-		"version": "0.1.1",
+		"version": "0.1.2",
 		"author": "Jim Hansson",
-		"summary": "setup a protocol binding so outlook:// could be used to link to messages",
+		"summary": "setup a protocol binding so outlook:// could be used to link to objects in outlook like messages or appointments",
 		"license": "Apache-2.0",
 		"source": "https://github.com/jimhansson/jiha-outlook_protocol.git",
 		"project_page": "https://github.com/jimhansson/jiha-outlook_protocol",

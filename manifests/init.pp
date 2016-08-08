@@ -10,8 +10,6 @@
 
 # === Parameters
 #
-# Document parameters here.
-#
 # [*path*]
 #   The path to the office installation, defaults to
 #   "C:\\Program Files\\Microsoft Office 15\\root\\office15\\"
