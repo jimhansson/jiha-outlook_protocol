@@ -35,7 +35,7 @@
 #
 # Copyright 2015 Jim Hansson, unless otherwise noted.
 #
-class outlook_protocol($path = "C:\\Program Files\\Microsoft Office\\Office15") {
+class outlook_protocol($path = "C:\\Program Files\\Microsoft Office 15\\root\\office15\\") {
   registry::value {
     '(OUTLOOK) outlook-rotocol':
       key => 'HKEY_CLASSES_ROOT\outlook',
